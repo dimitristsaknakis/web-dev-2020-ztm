@@ -1,6 +1,6 @@
 ## Robot Friend  
 
-Link: [dimitristsaknakis.github.io/web-dev-2020-ztm/robot-friend/](dimitristsaknakis.github.io/web-dev-2020-ztm/robot-friend/)  
+Link: [dimitristsaknakis.github.io/web-dev-2020-ztm/projectsrobot-friend/](https://dimitristsaknakis.github.io/web-dev-2020-ztm/projectsrobot-friend/)  
 
 Date created: Nov 09 2019  
 Last update: -  

@@ -1,6 +1,6 @@
 ## Image Gallery  
 
-Link: [dimitristsaknakis.github.io/web-dev-2020-ztm/image-gallery/](dimitristsaknakis.github.io/web-dev-2020-ztm/image-gallery/)  
+Link: [dimitristsaknakis.github.io/web-dev-2020-ztm/projects/image-gallery/](https://dimitristsaknakis.github.io/web-dev-2020-ztm/projects/image-gallery/)  
 
 Date created: Nov 09 2019  
 Last update: -  
