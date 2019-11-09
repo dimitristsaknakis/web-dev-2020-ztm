@@ -12,12 +12,12 @@ Created by: Dimitris Tsaknakis
 
 - **Simple Image Gallery**:  
     - Description in [Readme file](image-gallery/Readme.md).  
-    - See it at: [dimitristsaknakis.github.io/web-dev-2020-ztm/image-gallery/](dimitristsaknakis.github.io/web-dev-2020-ztm/image-gallery/)
+    - See it at: [dimitristsaknakis.github.io/web-dev-2020-ztm/image-gallery/](https://dimitristsaknakis.github.io/web-dev-2020-ztm/image-gallery/)
 - **Robot Friend**:  
     - Description in [Readme file](robot-friend/Readme.md).  
-    - See it at: [dimitristsaknakis.github.io/web-dev-2020-ztm/robot-friend/](dimitristsaknakis.github.io/web-dev-2020-ztm/robot-friend/)  
+    - See it at: [dimitristsaknakis.github.io/web-dev-2020-ztm/robot-friend/](https://dimitristsaknakis.github.io/web-dev-2020-ztm/robot-friend/)  
 - **Startup Page (Bootstrap 4)**:  
     - Description in [Readme file](startup-page-bootstrap4/Readme.md).  
-    - See it at: [dimitristsaknakis.github.io/web-dev-2020-ztm/startup-page-bootstrap4/](dimitristsaknakis.github.io/web-dev-2020-ztm/startup-page-bootstrap4/)  
+    - See it at: [dimitristsaknakis.github.io/web-dev-2020-ztm/startup-page-bootstrap4/](https://dimitristsaknakis.github.io/web-dev-2020-ztm/startup-page-bootstrap4/)  
 
 
